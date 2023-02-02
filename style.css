@@ -40,6 +40,7 @@ margin-left: 250px;
 display: flex;
 align-items: center;
 padding-left: 15px;
+border-radius: 0.30em;
 
 }
 
@@ -51,6 +52,7 @@ margin-left: 250px;
 height:255px;
 width: 755px;
 padding: 20px 20px ;
+border-radius: 0.30em;
 
 }
 
